@@ -28,7 +28,7 @@ section{
 	display: flex;
 	flex-direction: column;
 	background: #fff;
-	min-width: 40%;
+	min-width: 400px;
 	max-width: 100%;
 	min-height: 400px;
 	border-radius: 15%;
